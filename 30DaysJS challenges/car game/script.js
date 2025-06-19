@@ -13,7 +13,7 @@ function keyDown(event) {
     } else {
         keys[event.key] = true;
     }
-} i
+} 
 
 function keyUp(event) {
     if (event.key === " ") {
